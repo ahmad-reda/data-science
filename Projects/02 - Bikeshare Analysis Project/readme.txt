@@ -1,3 +1,5 @@
+Note: he raw data is not available right now until I ask for permission to upload it.
+
 This project works on data of a bike share system provider to uncover bike share usage patters.
 Here we show the system usage of three US large cities: Chicago, New York City, and Washington, DC.
 
