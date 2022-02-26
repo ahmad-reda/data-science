@@ -1,4 +1,5 @@
 **Concepts covered in the Machine Learning course**
+Unfortunately, the source code of the projects can not be provided according to the honor of code of Edx.
 
 -- Unit 1:
 - Linear classifiers
@@ -6,7 +7,7 @@
 - Perceptron algorithm
 - Regularization
 - Stochastic gradient descent
-- Generaliztion
+- Generalization
 - Passive-aggressive algorithm
 
 -- Project 1- Automatic Review Analyzer:
@@ -14,7 +15,7 @@
 - Average perceptron algorithm
 - Feature vectors
 - Bag of words
-- Frams and Bigrams
+- Unigrams and Bigrams
 - Parameter tuning
 - Feature engineering
 
@@ -38,7 +39,7 @@
 
 -- Unit 3:
 - Neural networks layers and weights 
-- Activiation functions
+- Activation functions
 - Linear separation using hidden layers
 - Back-propagation using recursive relations
 - Training using stochastic gradient descent algorithm
@@ -66,8 +67,8 @@
 - Similarity Measures as clustering cost
 - K-means algorithm
 - K-Medoids algorithm
-- Number of clusters cohice
-- Supervised elements in the unspervised learning
+- Number of clusters choice
+- Supervised elements in the unsupervised learning
 - Generative Models
 - Maximum Likelihood Estimates (MLE) for multinomial and Gaussian generative models
 - EM (Expectation Maximization) algorithm for mixture models
@@ -80,12 +81,12 @@
 
 -- Unit 5:
 - Markov decision process and transition Probabilities
-- Finite horizon based utility
-- Discounted reward based utility
+- Finite horizon-based utility
+- Discounted reward-based utility
 - Policy and Value Functions
 - Bellman equations for Q-function
 - Value Iteration and Q-value iteration
-- Model free vs model based approaches
+- Model free vs model-based approaches
 - Q-value iteration by sampling
 - Exploration vs Exploitation using Epsilon-Greedy approach
 
